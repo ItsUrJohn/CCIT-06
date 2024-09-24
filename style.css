@@ -15,8 +15,8 @@
 }
 
 .btn-brand {
-    background-color: rgb(95, 143, 214);
-    color: #f9f9fa;
+    background-color: rgb(220, 243, 11);
+    color: #c9f505;
     border: 2px solid rgb(243, 243, 243);
 }
 
@@ -51,7 +51,7 @@ section {
 #about h2 {
     font-size: 50px;
     font-weight: 800;
-    color: orange;
+    color: rgb(238, 158, 10);
 }
 
 #about h3 {
@@ -71,6 +71,11 @@ section {
 #services {
     background-color: rgb(190, 141, 141);
 }
+
+.btn-brand-hover {
+    background-color: transparent;
+    color: #0a0a0a;
+    border: 2px solid #fff;
 
 .card {
     transition: background-color 0.3s, color 0.3s;
