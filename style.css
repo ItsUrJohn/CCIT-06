@@ -95,4 +95,27 @@ section {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+.testimonials  {
+    padding: 30px;
+    border: 2px solid red;
+    border-radius: 30px;
+}
 
+.testimonials  img {
+   width: 65px;
+    border-radius: 100px;
+
+
+}
+
+.testimonials  {
+     color: red;
+}
+ 
+#reviews h2 {
+    font-size: 55px;
+    font-weight: 900;
+    color:red;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
